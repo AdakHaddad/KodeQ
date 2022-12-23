@@ -14,10 +14,10 @@ public:
     char romanNum[6];
     int decimal;
     int total;
-};
+}
 
 int convertRoman{
-    for (int i = 0; i < 6; i++)
+    for(int i = 0; i<6; i++)
     {
         if (romanNum[i] == 'I')
         {
@@ -55,6 +55,7 @@ int convertRoman{
     }
     return total;
 }
+
 int main(){
     romanType roman;
     char romanNum;

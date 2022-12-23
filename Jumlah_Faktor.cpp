@@ -23,7 +23,7 @@ int main(){
   }
   break;
   }
-cout <<countN + countM;
+cout<<countN+countM;
 
   return 0;
 }
