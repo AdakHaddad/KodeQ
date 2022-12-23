@@ -10,6 +10,7 @@ int main(){
   cin >> m;
 
   int countN = 0;
+  //Cek faktor dari 1 sampai M
   for (int i=1;i<=n;i++){
   while (n % i == 0) {
     countN++;
@@ -17,6 +18,7 @@ int main(){
   break;
   }
   int countM = 0;
+  //Cek faktor dari 1 sampai M
   for (int i=1;i<=m;i++){
   while (m % i == 0) {
     countM++;
