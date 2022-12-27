@@ -1,6 +1,9 @@
-// created by Fadhilah R.F.
-// github : https://github.com/Fadhilah16
-// ig : fadhilahrizki
+// Created by Fadhilah R.F.
+// Github : https://github.com/Fadhilah16
+// IG : fadhilahrizki
+
+// Restart option added by Muhammad M.A.
+// IG : muqtadaalhaddad
 
 #include <iostream>
 #include <conio.h>
